@@ -6,3 +6,7 @@
     $('#slider').attr('style', style);
 			setTimeout(function(){nav.last();},150);
    });
+   
+   function goRight(){
+	   nav.next();
+   }
