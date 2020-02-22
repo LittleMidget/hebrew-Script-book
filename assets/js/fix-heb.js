@@ -50,6 +50,7 @@ nav.to = function(number){
 oldTo(nav.numPages - number +1 );
 
 };
+nav.regress = function(){};
 
 
 },1000);
